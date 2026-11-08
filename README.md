@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">🦸 THE FIVE FORCES</h2>
+<img id="the-five-forces" src="assets/section-heroes.svg" width="100%" alt="The Five Forces — Assemble Your Skills"/>
 <p align="center"><em>Five original hero identities. One developer mindset.</em></p>
 
 <table>
@@ -70,7 +70,7 @@
 
 ---
 
-<h2 id="origin-story">📖 ORIGIN STORY // ABOUT THE DEVELOPER</h2>
+<img id="origin-story" src="assets/section-origin.svg" width="100%" alt="Origin Story — The Making of a Developer"/>
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ I build practical software, explore AI-powered products and connect tools throug
 
 ---
 
-<h2 id="arsenal">🧰 THE ARSENAL // TECHNOLOGY STACK</h2>
+<img id="arsenal" src="assets/section-arsenal.svg" width="100%" alt="The Arsenal — Technology and Power Systems"/>
 <p align="center"><em>Tools are the weapons. Skill is knowing when and how to use them.</em></p>
 
 <div align="center">
@@ -118,7 +118,7 @@ I build practical software, explore AI-powered products and connect tools throug
 
 ---
 
-<h2 id="missions">🚀 CLASSIFIED MISSIONS // SELECTED WORK</h2>
+<img id="missions" src="assets/section-missions.svg" width="100%" alt="Classified Missions — Projects in Action"/>
 
 <table>
 <tr>
@@ -152,7 +152,7 @@ Exploring automated CV analysis and ATS-oriented feedback to make resumes cleare
 
 ---
 
-<h2 id="battle-record">📊 BATTLE RECORD // GITHUB ACTIVITY</h2>
+<img id="battle-record" src="assets/section-battle.svg" width="100%" alt="Battle Record — GitHub Activity"/>
 <p align="center"><em>Every commit is progress. Every project is another mission completed.</em></p>
 
 <div align="center">
@@ -168,7 +168,7 @@ Exploring automated CV analysis and ATS-oriented feedback to make resumes cleare
 
 ---
 
-<h2 id="transmission">📡 TRANSMISSION // CONNECT</h2>
+<img id="transmission" src="assets/section-transmission.svg" width="100%" alt="Transmission — Connect with the Developer"/>
 <div align="center">
 
 <strong>HAVE A CHALLENGE WORTH BUILDING?</strong>
