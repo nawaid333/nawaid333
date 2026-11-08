@@ -1,42 +1,62 @@
 <div align="center">
 
+<img src="assets/nawaid-cinematic-banner.svg" width="100%" alt="Nawaid cinematic developer universe">
+
 # ⚡ NAWAID
 ### THE DEVELOPER COMMAND CENTER
+<sub>ONE DEVELOPER · FIVE FORMS · ONE DIGITAL UNIVERSE</sub>
 
-<sub>ONE DEVELOPER · FIVE HEROIC FORMS · ONE DIGITAL UNIVERSE</sub>
-
-<img src="storm-warrior.gif" width="92%" alt="Lightning-powered guardian at the heart of the developer command center">
+<img src="storm-warrior.gif" width="88%" alt="Lightning-powered guardian controlling the developer universe">
 
 **THE POWER SOURCE**
-<br><sub>Electric energy flowing through every repository, system and line of code.</sub>
+<br><sub>Turning ideas into code, systems and intelligent products.</sub>
 
 </div>
 
 ---
 
+<div align="center">
+
+## ◈ THE FIVE OPERATING FORMS ◈
+<sub>Different powers. One identity. Every role has a mission.</sub>
+
+</div>
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-<img src="armored-genius.gif" width="100%" alt="Armored engineer coding and repairing a damaged system">
-<h3>⚙️ CODE & REPAIR</h3>
-<sub>Building features · Debugging · Engineering reliable systems</sub>
+
+<img src="armored-genius.gif" width="100%" alt="Armored engineer coding and repairing systems">
+
+### ⚙️ THE SYSTEM ENGINEER
+<sub>Build · Code · Debug · Repair</sub>
+
 </td>
 <td width="50%" align="center" valign="middle">
-<img src="dark-sovereign.gif" width="100%" alt="Masked strategist seated on a throne overlooking a digital kingdom">
-<h3>♛ STRATEGIC CONTROL</h3>
-<sub>Architecture · AI strategy · Technical direction</sub>
+
+<img src="dark-sovereign.gif" width="100%" alt="Masked strategist on a throne">
+
+### ♛ THE ARCHITECT
+<sub>Strategy · Architecture · Technical vision</sub>
+
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="middle">
-<img src="green-titan.gif" width="100%" alt="Green powerhouse smashing bugs and errors">
-<h3>💥 BUG SMASHING</h3>
-<sub>Crushing errors · Debugging · Performance hardening</sub>
+
+<img src="green-titan.gif" width="100%" alt="Green powerhouse smashing software bugs">
+
+### 💥 THE BUG BREAKER
+<sub>Crush errors · Optimize · Strengthen</sub>
+
 </td>
 <td width="50%" align="center" valign="middle">
-<img src="web-architect.gif" width="100%" alt="Web-powered hero repairing and connecting digital systems">
-<h3>🕸️ WEB FIX & CONNECT</h3>
-<sub>Connecting components · Fixing broken flows · Full-stack integration</sub>
+
+<img src="web-architect.gif" width="100%" alt="Web-powered hero connecting digital systems">
+
+### 🕸️ THE WEB CONNECTOR
+<sub>Integrate · Automate · Connect systems</sub>
+
 </td>
 </tr>
 </table>
@@ -47,9 +67,11 @@
 
 ## ◈ OPERATOR PROFILE ◈
 
-**NAWAID · @nawaid333**
+### NAWAID · [@nawaid333](https://github.com/nawaid333)
 
-Developer focused on practical software, AI-powered workflows and automation. I learn by building, debugging and shipping real projects.
+Full-stack developer and builder exploring AI-powered products, automation and practical software engineering.
+
+**Mission:** Learn by building. Solve real problems. Ship useful products.
 
 </div>
 
@@ -57,23 +79,22 @@ Developer focused on practical software, AI-powered workflows and automation. I 
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 ACTIVE MISSION
+### 🚀 FEATURED PROJECT — NAWSHUM
 
-**NAWSHUM**
+AI-powered job application assistant focused on CV tailoring, job matching and application workflows.
 
-AI-powered job application workflows: CV tailoring, job matching and application assistance.
-
-[Explore the project](https://github.com/nawaid333/jobpilot-ai)
+[Open project repository](https://github.com/nawaid333/jobpilot-ai) · [nawshum.com](https://nawshum.com)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 CURRENT OBJECTIVES
+### 🧠 CURRENT MISSIONS
 
-- Build useful full-stack products
-- Explore AI agents, APIs and MCP
-- Automate repetitive workflows
-- Improve engineering through real projects
+- Full-stack product development
+- AI agents, APIs and MCP
+- Workflow automation
+- Database design and integrations
+- Building and shipping real-world tools
 
 </td>
 </tr>
@@ -94,22 +115,28 @@ AI-powered job application workflows: CV tailoring, job matching and application
 
 ---
 
+<div align="center">
+
+## 📊 LIVE GITHUB TELEMETRY
+
+<img src="https://github-readme-stats.vercel.app/api?username=nawaid333&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=E6B450&icon_color=8B5CF6" width="82%" alt="Live GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaid333&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=E6B450" width="58%" alt="Most used languages">
+
+</div>
+
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-
-### 📊 LIVE DEVELOPER STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=nawaid333&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=E6B450&icon_color=E6B450" width="100%" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaid333&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=E6B450" width="100%" alt="Most used languages">
-
-</td>
 <td width="50%" align="center" valign="top">
 
 ### 🔥 CONTRIBUTION REACTOR
 
 <img src="https://streak-stats.demolab.com?user=nawaid333&theme=tokyonight&hide_border=true&background=0D1117&ring=E6B450&fire=E11D48&currStreakLabel=E6B450" width="100%" alt="GitHub streak">
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🌌 ACTIVITY SIGNAL
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaid333&bg_color=0D1117&color=E6B450&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
 
@@ -119,7 +146,7 @@ AI-powered job application workflows: CV tailoring, job matching and application
 
 <div align="center">
 
-## 🌐 CONNECTIONS
+## 🌐 CONNECT TO THE COMMAND CENTER
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nawaid333)
 
