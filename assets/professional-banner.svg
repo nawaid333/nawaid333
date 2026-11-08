@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset=".55" stop-color="#101a2b"/><stop offset="1" stop-color="#171126"/></linearGradient>
+ <linearGradient id="line" x2="1"><stop stop-color="#3dd5f3"/><stop offset=".55" stop-color="#8b7cff"/><stop offset="1" stop-color="#ed5b91"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8da4c7" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/><rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+<circle cx="1010" cy="160" r="170" fill="#263b68" opacity=".14"/><circle cx="1010" cy="160" r="120" fill="none" stroke="#4dd8f0" stroke-opacity=".22"/><circle cx="1010" cy="160" r="85" fill="none" stroke="#9a82ff" stroke-opacity=".28"/>
+<path d="M820 270L990 80 1080 170 1170 45" fill="none" stroke="url(#line)" stroke-width="2" opacity=".65"/>
+<path d="M0 285H1200" stroke="url(#line)" stroke-width="3" opacity=".85"/>
+<g font-family="Arial,sans-serif">
+ <text x="78" y="78" fill="#73dff3" font-size="16" letter-spacing="5">SOFTWARE • AI • AUTOMATION</text>
+ <text x="74" y="166" fill="#f5f7fb" font-size="76" font-weight="700" letter-spacing="1">NAWAID</text>
+ <text x="80" y="210" fill="#c5d1e3" font-size="24" letter-spacing="2">FULL-STACK DEVELOPER</text>
+ <text x="80" y="254" fill="#91a3bd" font-size="16" letter-spacing="1.5">Building practical products and intelligent workflows.</text>
+ <text x="1110" y="295" fill="#a9b9d0" font-size="13" text-anchor="end" letter-spacing="3">@NAWAID333</text>
+</g>
+</svg>
