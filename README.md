@@ -3,16 +3,12 @@
 # ⚡ NAWAID
 ### THE DEVELOPER COMMAND CENTER
 
-<sub>ONE DEVELOPER · FIVE ROLES · ONE DIGITAL UNIVERSE</sub>
+<sub>ONE DEVELOPER · FIVE HEROIC FORMS · ONE DIGITAL UNIVERSE</sub>
 
-<img src="storm-warrior.gif" width="88%" alt="A lightning-powered guardian standing at the center of the developer command center">
+<img src="storm-warrior.gif" width="92%" alt="Lightning-powered guardian at the heart of the developer command center">
 
-<p><b>THE POWER SOURCE</b><br>
-<sub>Electric energy runs through every system, repository and line of code.</sub></p>
-
-<img src="https://img.shields.io/badge/BUILDING-THE%20FUTURE-111827?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/AI%20%2F%20AUTOMATION-ONLINE-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/STATUS-DEPLOYING-16A34A?style=for-the-badge">
+**THE POWER SOURCE**
+<br><sub>Electric energy flowing through every repository, system and line of code.</sub>
 
 </div>
 
@@ -21,26 +17,26 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-<img src="armored-genius.gif" width="100%" alt="Armored engineer writing code and repairing a damaged system">
-<h3>⚙️ SYSTEM ENGINEERING</h3>
-<sub>Writing code · Repairing broken systems · Building reliable software</sub>
+<img src="armored-genius.gif" width="100%" alt="Armored engineer coding and repairing a damaged system">
+<h3>⚙️ CODE & REPAIR</h3>
+<sub>Building features · Debugging · Engineering reliable systems</sub>
 </td>
 <td width="50%" align="center" valign="middle">
-<img src="dark-sovereign.gif" width="100%" alt="Masked ruler seated on a powerful throne overlooking a digital kingdom">
+<img src="dark-sovereign.gif" width="100%" alt="Masked strategist seated on a throne overlooking a digital kingdom">
 <h3>♛ STRATEGIC CONTROL</h3>
-<sub>Architecture · AI strategy · Long-term technical vision</sub>
+<sub>Architecture · AI strategy · Technical direction</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="middle">
-<img src="green-titan.gif" width="100%" alt="Powerful green guardian smashing bugs and errors">
-<h3>💥 BUG ELIMINATION</h3>
+<img src="green-titan.gif" width="100%" alt="Green powerhouse smashing bugs and errors">
+<h3>💥 BUG SMASHING</h3>
 <sub>Crushing errors · Debugging · Performance hardening</sub>
 </td>
 <td width="50%" align="center" valign="middle">
-<img src="web-architect.gif" width="100%" alt="Web-powered hero connecting and repairing a digital network">
-<h3>🕸️ WEB REPAIR NETWORK</h3>
-<sub>Connecting components · Fixing broken links · Full-stack integration</sub>
+<img src="web-architect.gif" width="100%" alt="Web-powered hero repairing and connecting digital systems">
+<h3>🕸️ WEB FIX & CONNECT</h3>
+<sub>Connecting components · Fixing broken flows · Full-stack integration</sub>
 </td>
 </tr>
 </table>
