@@ -18,38 +18,41 @@
 
 ---
 
-<div align="center">
-
 ## THE DEVELOPER UNIVERSE
 
-<img src="storm-warrior.gif" width="72%" alt="Central lightning-powered developer hero"/>
-
-</div>
+<div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
-<img src="armored-genius.gif" width="100%" alt="Armored developer coding and repairing systems"/>
-<strong>SYSTEM ENGINEERING</strong><br/>
-<sub>Build · Code · Debug</sub>
+<td align="center" valign="top" width="20%">
+<img src="armored-genius.gif" width="180" alt="Armored genius superhero"/>
+<strong>THE ARMORED GENIUS</strong><br/>
+<sub>System Engineering</sub>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="dark-sovereign.gif" width="100%" alt="Strategic masked architect"/>
-<strong>TECHNICAL STRATEGY</strong><br/>
-<sub>Plan · Architect · Lead</sub>
+<td align="center" valign="top" width="20%">
+<img src="dark-sovereign.gif" width="180" alt="Dark sovereign superhero"/>
+<strong>THE DARK SOVEREIGN</strong><br/>
+<sub>Technical Strategy</sub>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="green-titan.gif" width="100%" alt="Powerful bug breaker"/>
-<strong>PROBLEM SOLVING</strong><br/>
-<sub>Investigate · Fix · Optimize</sub>
+<td align="center" valign="top" width="20%">
+<img src="green-titan.gif" width="180" alt="Green titan superhero"/>
+<strong>THE GREEN TITAN</strong><br/>
+<sub>Problem Solving</sub>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="web-architect.gif" width="100%" alt="Web systems engineer"/>
-<strong>WEB & INTEGRATION</strong><br/>
-<sub>Connect · Integrate · Automate</sub>
+<td align="center" valign="top" width="20%">
+<img src="storm-warrior.gif" width="180" alt="Storm warrior superhero"/>
+<strong>THE STORM WARRIOR</strong><br/>
+<sub>Code & Deployment</sub>
+</td>
+<td align="center" valign="top" width="20%">
+<img src="web-architect.gif" width="180" alt="Web architect superhero"/>
+<strong>THE WEB ARCHITECT</strong><br/>
+<sub>Web & Integration</sub>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
