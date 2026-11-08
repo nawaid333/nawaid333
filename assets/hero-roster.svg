@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs>
+ <linearGradient id="p" x2="0" y2="1"><stop stop-color="#202637"/><stop offset="1" stop-color="#080b12"/></linearGradient>
+ <pattern id="halftone" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#fff" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="390" rx="18" fill="#070910"/>
+<g transform="translate(18 18)">
+ <rect width="220" height="354" rx="13" fill="url(#p)" stroke="#34d66b" stroke-width="2"/>
+ <rect width="220" height="354" rx="13" fill="url(#halftone)"/>
+ <path d="M0 0H220V9H0Z" fill="#34d66b"/>
+ <circle cx="110" cy="126" r="72" fill="#34d66b" opacity=".12"/>
+ <path d="M54 212Q62 157 110 157Q158 157 166 212L178 273H42Z" fill="#111827" stroke="#34d66b" stroke-width="3"/>
+ <path d="M78 110Q110 58 142 110L137 151Q110 175 83 151Z" fill="#c99b82" stroke="#34d66b" stroke-width="3"/>
+ <path d="M82 117Q110 93 138 117" stroke="#0b1019" stroke-width="7" fill="none"/>
+ <text x="110" y="302" fill="#34d66b" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">01 / CLASS</text>
+ <text x="110" y="326" fill="#fff" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="16" font-weight="900">GREEN TITAN</text>
+ <text x="110" y="344" fill="#b8c2d2" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">POWER CODER</text>
+ </g><g transform="translate(256 18)">
+ <rect width="220" height="354" rx="13" fill="url(#p)" stroke="#ff5b46" stroke-width="2"/>
+ <rect width="220" height="354" rx="13" fill="url(#halftone)"/>
+ <path d="M0 0H220V9H0Z" fill="#ff5b46"/>
+ <circle cx="110" cy="126" r="72" fill="#ff5b46" opacity=".12"/>
+ <path d="M54 212Q62 157 110 157Q158 157 166 212L178 273H42Z" fill="#111827" stroke="#ff5b46" stroke-width="3"/>
+ <path d="M78 110Q110 58 142 110L137 151Q110 175 83 151Z" fill="#c99b82" stroke="#ff5b46" stroke-width="3"/>
+ <path d="M82 117Q110 93 138 117" stroke="#0b1019" stroke-width="7" fill="none"/>
+ <text x="110" y="302" fill="#ff5b46" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">02 / CLASS</text>
+ <text x="110" y="326" fill="#fff" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="16" font-weight="900">ARMORED GENIUS</text>
+ <text x="110" y="344" fill="#b8c2d2" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">SYSTEM ENGINEER</text>
+ </g><g transform="translate(494 18)">
+ <rect width="220" height="354" rx="13" fill="url(#p)" stroke="#22bd91" stroke-width="2"/>
+ <rect width="220" height="354" rx="13" fill="url(#halftone)"/>
+ <path d="M0 0H220V9H0Z" fill="#22bd91"/>
+ <circle cx="110" cy="126" r="72" fill="#22bd91" opacity=".12"/>
+ <path d="M54 212Q62 157 110 157Q158 157 166 212L178 273H42Z" fill="#111827" stroke="#22bd91" stroke-width="3"/>
+ <path d="M78 110Q110 58 142 110L137 151Q110 175 83 151Z" fill="#c99b82" stroke="#22bd91" stroke-width="3"/>
+ <path d="M82 117Q110 93 138 117" stroke="#0b1019" stroke-width="7" fill="none"/>
+ <text x="110" y="302" fill="#22bd91" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">03 / CLASS</text>
+ <text x="110" y="326" fill="#fff" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="16" font-weight="900">DARK SOVEREIGN</text>
+ <text x="110" y="344" fill="#b8c2d2" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">MASTER ARCHITECT</text>
+ </g><g transform="translate(732 18)">
+ <rect width="220" height="354" rx="13" fill="url(#p)" stroke="#55baff" stroke-width="2"/>
+ <rect width="220" height="354" rx="13" fill="url(#halftone)"/>
+ <path d="M0 0H220V9H0Z" fill="#55baff"/>
+ <circle cx="110" cy="126" r="72" fill="#55baff" opacity=".12"/>
+ <path d="M54 212Q62 157 110 157Q158 157 166 212L178 273H42Z" fill="#111827" stroke="#55baff" stroke-width="3"/>
+ <path d="M78 110Q110 58 142 110L137 151Q110 175 83 151Z" fill="#c99b82" stroke="#55baff" stroke-width="3"/>
+ <path d="M82 117Q110 93 138 117" stroke="#0b1019" stroke-width="7" fill="none"/>
+ <text x="110" y="302" fill="#55baff" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">04 / CLASS</text>
+ <text x="110" y="326" fill="#fff" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="16" font-weight="900">STORM WARRIOR</text>
+ <text x="110" y="344" fill="#b8c2d2" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">DEPLOYMENT FORCE</text>
+ </g><g transform="translate(970 18)">
+ <rect width="220" height="354" rx="13" fill="url(#p)" stroke="#ed4560" stroke-width="2"/>
+ <rect width="220" height="354" rx="13" fill="url(#halftone)"/>
+ <path d="M0 0H220V9H0Z" fill="#ed4560"/>
+ <circle cx="110" cy="126" r="72" fill="#ed4560" opacity=".12"/>
+ <path d="M54 212Q62 157 110 157Q158 157 166 212L178 273H42Z" fill="#111827" stroke="#ed4560" stroke-width="3"/>
+ <path d="M78 110Q110 58 142 110L137 151Q110 175 83 151Z" fill="#c99b82" stroke="#ed4560" stroke-width="3"/>
+ <path d="M82 117Q110 93 138 117" stroke="#0b1019" stroke-width="7" fill="none"/>
+ <text x="110" y="302" fill="#ed4560" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">05 / CLASS</text>
+ <text x="110" y="326" fill="#fff" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="16" font-weight="900">WEB ARCHITECT</text>
+ <text x="110" y="344" fill="#b8c2d2" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">FULL-STACK BUILDER</text>
+ </g>
+</svg>
