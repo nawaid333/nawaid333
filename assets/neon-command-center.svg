@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1180" viewBox="0 0 1200 1180">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".55" stop-color="#091426"/><stop offset="1" stop-color="#10091c"/></linearGradient>
+ <linearGradient id="cyan" x2="1"><stop stop-color="#00d9ff"/><stop offset="1" stop-color="#566bff"/></linearGradient>
+ <linearGradient id="pink" x2="1"><stop stop-color="#ff365e"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#17324c" stroke-width="1" opacity=".45"/></pattern>
+</defs>
+<rect width="1200" height="1180" fill="url(#bg)"/><rect width="1200" height="1180" fill="url(#grid)"/>
+<path d="M0 390L250 80 450 390M1200 390L950 80 750 390" fill="none" stroke="#00bfff" stroke-width="2" opacity=".18"/>
+<g font-family="Arial,sans-serif" fill="#f8fbff">
+ <text x="600" y="68" text-anchor="middle" font-size="18" letter-spacing="8" fill="#56dfff">NAWAID333 // DEVELOPER UNIVERSE</text>
+ <text x="600" y="140" text-anchor="middle" font-size="66" font-weight="900" letter-spacing="4">NAWAID</text>
+ <text x="600" y="181" text-anchor="middle" font-size="23" font-weight="700" letter-spacing="6" fill="#65dfff">THE DEVELOPER COMMAND CENTER</text>
+ <text x="600" y="215" text-anchor="middle" font-size="14" letter-spacing="4" fill="#9baec8">ONE IDENTITY · FIVE FORMS · ONE DIGITAL UNIVERSE</text>
+</g>
+<g filter="url(#glow)">
+ <rect x="30" y="250" width="1140" height="250" rx="22" fill="#071525" stroke="url(#cyan)" stroke-width="3"/>
+ <rect x="44" y="264" width="1112" height="222" rx="16" fill="none" stroke="#254c70" stroke-width="1"/>
+ <circle cx="600" cy="370" r="92" fill="#0b2744" stroke="#19cfff" stroke-width="3"/>
+ <circle cx="600" cy="370" r="72" fill="none" stroke="#6b83ff" stroke-width="2" stroke-dasharray="8 9"/>
+ <path d="M590 292l-37 89h39l-19 67 76-100h-43l22-56Z" fill="#75e8ff"/>
+ <path d="M105 330l-24 55h26l-13 47 49-65h-28l14-37Z" fill="#ff4f73"/>
+ <path d="M1095 330l-24 55h26l-13 47 49-65h-28l14-37Z" fill="#ff4f73"/>
+ <g fill="#f7fbff" font-family="Arial,sans-serif" text-anchor="middle">
+  <text x="600" y="474" font-size="16" letter-spacing="3">THE POWER SOURCE</text>
+ </g>
+</g>
+<g font-family="Arial,sans-serif">
+ <rect x="30" y="525" width="350" height="230" rx="18" fill="#071525" stroke="#21cfff" stroke-width="2"/>
+ <rect x="400" y="525" width="370" height="230" rx="18" fill="#071525" stroke="#a855f7" stroke-width="2"/>
+ <rect x="790" y="525" width="380" height="230" rx="18" fill="#071525" stroke="#ff456b" stroke-width="2"/>
+ <g fill="#fff">
+  <text x="58" y="570" font-size="23" font-weight="700">01 / OPERATOR</text>
+  <text x="58" y="612" font-size="21" font-weight="700">MOHAMMAD NAWAID KALIM</text>
+  <text x="58" y="644" font-size="17" fill="#78dfff">@nawaid333</text>
+  <text x="58" y="690" font-size="16" fill="#b8c7da">Full-stack · AI · Automation</text>
+  <text x="428" y="570" font-size="23" font-weight="700">02 / MISSION CONTROL</text>
+  <text x="428" y="616" font-size="19" fill="#c5d7ee">Build useful software that solves</text>
+  <text x="428" y="644" font-size="19" fill="#c5d7ee">real-world problems.</text>
+  <text x="428" y="694" font-size="16" fill="#8deaff">APIs · MCP · AI agents · Full-stack</text>
+  <text x="818" y="570" font-size="23" font-weight="700">03 / FEATURED BUILD</text>
+  <text x="818" y="616" font-size="25" font-weight="700" fill="#ffcf70">NAWSHUM</text>
+  <text x="818" y="648" font-size="17" fill="#c5d7ee">AI-powered job application workflows</text>
+  <text x="818" y="694" font-size="16" fill="#8deaff">CV tailoring · Job matching · Automation</text>
+ </g>
+</g>
+<g font-family="Arial,sans-serif">
+ <rect x="30" y="785" width="1140" height="150" rx="18" fill="#071525" stroke="url(#cyan)" stroke-width="2"/>
+ <text x="60" y="830" fill="#fff" font-size="24" font-weight="700">04 / TECHNOLOGY POWER GRID</text>
+ <g fill="#9feaff" font-size="22" font-weight="700" text-anchor="middle">
+  <text x="125" y="890">PYTHON</text><text x="270" y="890">JAVASCRIPT</text><text x="425" y="890">TYPESCRIPT</text><text x="560" y="890">REACT</text><text x="690" y="890">NODE</text><text x="820" y="890">POSTGRES</text><text x="960" y="890">GIT</text><text x="1080" y="890">VERCEL</text>
+ </g>
+ <path d="M60 908H1140" stroke="#1d4568"/>
+ <text x="600" y="970" text-anchor="middle" fill="#fff" font-size="23" font-weight="700" letter-spacing="4">BUILD BOLDLY · DEBUG RELENTLESSLY · KEEP EVOLVING</text>
+ <text x="600" y="1015" text-anchor="middle" fill="#7e9ab7" font-size="15" letter-spacing="3">SYSTEM ONLINE // PROFILE ACCESS GRANTED</text>
+</g>
+<g fill="none" stroke="url(#pink)" stroke-width="3"><path d="M25 1125H1175"/><path d="M25 1137H1175" opacity=".4"/></g>
+</svg>
