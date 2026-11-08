@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/superhero-banner-v2.svg" width="100%" alt="Nawaid — Developer universe"/>
+<img src="nawaid_superhero_intro.gif" width="100%" alt="Nawaid — Developer universe"/>
 
 <h1>⚡ NAWAID // THE DEVELOPER UNIVERSE ⚡</h1>
 <h3>ONE MIND. FIVE FORCES. LIMITLESS BUILDS.</h3>
