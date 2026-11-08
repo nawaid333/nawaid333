@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/professional-banner.svg" width="100%" alt="Nawaid — Developer universe"/>
+<img src="assets/superhero-banner-v2.svg" width="100%" alt="Nawaid — Developer universe"/>
 
 <h1>⚡ NAWAID // THE DEVELOPER UNIVERSE ⚡</h1>
 <h3>ONE MIND. FIVE FORCES. LIMITLESS BUILDS.</h3>
@@ -23,7 +23,7 @@
 
 ---
 
-<img id="the-five-forces" src="assets/section-heroes.svg" width="100%" alt="The Five Forces — Assemble Your Skills"/>
+<img id="the-five-forces" src="assets/superhero-heroes-v2.svg" width="100%" alt="The Five Forces — Assemble Your Skills"/>
 <p align="center"><em>Five original hero identities. One developer mindset.</em></p>
 
 <table>
@@ -70,7 +70,7 @@
 
 ---
 
-<img id="origin-story" src="assets/section-origin.svg" width="100%" alt="Origin Story — The Making of a Developer"/>
+<img id="origin-story" src="assets/superhero-origin-v2.svg" width="100%" alt="Origin Story — The Making of a Developer"/>
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ I build practical software, explore AI-powered products and connect tools throug
 
 ---
 
-<img id="arsenal" src="assets/section-arsenal.svg" width="100%" alt="The Arsenal — Technology and Power Systems"/>
+<img id="arsenal" src="assets/superhero-arsenal-v2.svg" width="100%" alt="The Arsenal — Technology and Power Systems"/>
 <p align="center"><em>Tools are the weapons. Skill is knowing when and how to use them.</em></p>
 
 <div align="center">
@@ -118,7 +118,7 @@ I build practical software, explore AI-powered products and connect tools throug
 
 ---
 
-<img id="missions" src="assets/section-missions.svg" width="100%" alt="Classified Missions — Projects in Action"/>
+<img id="missions" src="assets/superhero-missions-v2.svg" width="100%" alt="Classified Missions — Projects in Action"/>
 
 <table>
 <tr>
@@ -152,7 +152,7 @@ Exploring automated CV analysis and ATS-oriented feedback to make resumes cleare
 
 ---
 
-<img id="battle-record" src="assets/section-battle.svg" width="100%" alt="Battle Record — GitHub Activity"/>
+<img id="battle-record" src="assets/superhero-battle-v2.svg" width="100%" alt="Battle Record — GitHub Activity"/>
 <p align="center"><em>Every commit is progress. Every project is another mission completed.</em></p>
 
 <div align="center">
@@ -168,7 +168,7 @@ Exploring automated CV analysis and ATS-oriented feedback to make resumes cleare
 
 ---
 
-<img id="transmission" src="assets/section-transmission.svg" width="100%" alt="Transmission — Connect with the Developer"/>
+<img id="transmission" src="assets/superhero-transmission-v2.svg" width="100%" alt="Transmission — Connect with the Developer"/>
 <div align="center">
 
 <strong>HAVE A CHALLENGE WORTH BUILDING?</strong>
