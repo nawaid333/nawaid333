@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#05070d"/><stop offset=".52" stop-color="#15111b"/><stop offset="1" stop-color="#080b13"/></linearGradient>
+ <linearGradient id="gold" x2="1"><stop stop-color="#ffcf67"/><stop offset=".5" stop-color="#fff0b2"/><stop offset="1" stop-color="#c47b22"/></linearGradient>
+ <linearGradient id="red" x2="1"><stop stop-color="#7e101d"/><stop offset="1" stop-color="#ff3e4e"/></linearGradient>
+ <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#fff" opacity=".15"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="420" fill="url(#bg)"/><rect width="1200" height="420" fill="url(#dots)"/>
+<path d="M0 330L300 120 500 420H0Z" fill="#5b101c" opacity=".38"/><path d="M1200 0L850 0 1030 420H1200Z" fill="#173b54" opacity=".35"/>
+<path d="M0 70L1200 350M0 105L1200 385" stroke="#ff334c" stroke-width="2" opacity=".22"/>
+<path d="M70 0L250 420M105 0L285 420" stroke="#f3bd54" stroke-width="2" opacity=".15"/>
+<g filter="url(#glow)" opacity=".92"><path d="M950 72l-42 110h50l-33 110 105-145h-56l34-75Z" fill="#57bfff"/><path d="M1080 0l-25 85h38l-23 73 76-101h-42l24-57Z" fill="#ffcf67"/></g>
+<g transform="translate(75 76)">
+ <path d="M0 0H8V250H0Z" fill="#ed3448"/><path d="M18 0H20V250H18Z" fill="#e8b957"/>
+ <text x="48" y="58" fill="#e9b95c" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="7">THE ORIGINAL DEVELOPER UNIVERSE</text>
+ <text x="42" y="154" fill="#fff" font-family="Arial Black,Arial,sans-serif" font-size="82" font-weight="900" letter-spacing="2">NAWAID</text>
+ <text x="47" y="205" fill="url(#gold)" font-family="Arial,sans-serif" font-size="31" font-weight="800" letter-spacing="5">THE DEVELOPER AVENGER</text>
+ <text x="49" y="247" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">CODE  •  CREATE  •  CONQUER</text>
+</g>
+<g transform="translate(850 75)" opacity=".92">
+ <circle cx="135" cy="135" r="112" fill="none" stroke="#e8b957" stroke-width="2" opacity=".55"/>
+ <circle cx="135" cy="135" r="94" fill="none" stroke="#ef3348" stroke-width="1.5" stroke-dasharray="8 10"/>
+ <path d="M135 34l25 65 68 9-52 45 15 69-56-36-57 36 16-69-53-45 69-9Z" fill="#141c2a" stroke="url(#gold)" stroke-width="3"/>
+ <path d="M135 65l17 47 49 6-37 31 11 48-40-25-40 25 11-48-37-31 49-6Z" fill="#e53248" opacity=".8"/>
+ <text x="135" y="145" fill="#fff" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="43">N</text>
+</g>
+<path d="M0 405H1200" stroke="url(#gold)" stroke-width="4"/>
+</svg>
