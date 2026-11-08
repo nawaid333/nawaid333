@@ -1,18 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
 <defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset=".55" stop-color="#101a2b"/><stop offset="1" stop-color="#171126"/></linearGradient>
- <linearGradient id="line" x2="1"><stop stop-color="#3dd5f3"/><stop offset=".55" stop-color="#8b7cff"/><stop offset="1" stop-color="#ed5b91"/></linearGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8da4c7" stroke-opacity=".08"/></pattern>
+ <linearGradient id="blue" x2="0" y2="1"><stop stop-color="#0872b9"/><stop offset="1" stop-color="#031e42"/></linearGradient>
+ <pattern id="halftone" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2" fill="#fff" opacity=".16"/></pattern>
+ <pattern id="lines" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M0 32L32 0" stroke="#fff" stroke-width="1" opacity=".06"/></pattern>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur in="SourceAlpha" stdDeviation="7"/><feOffset dx="4" dy="6"/><feComponentTransfer><feFuncA type="linear" slope=".55"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="330" rx="18" fill="url(#bg)"/><rect width="1200" height="330" rx="18" fill="url(#grid)"/>
-<circle cx="1010" cy="160" r="170" fill="#263b68" opacity=".14"/><circle cx="1010" cy="160" r="120" fill="none" stroke="#4dd8f0" stroke-opacity=".22"/><circle cx="1010" cy="160" r="85" fill="none" stroke="#9a82ff" stroke-opacity=".28"/>
-<path d="M820 270L990 80 1080 170 1170 45" fill="none" stroke="url(#line)" stroke-width="2" opacity=".65"/>
-<path d="M0 285H1200" stroke="url(#line)" stroke-width="3" opacity=".85"/>
-<g font-family="Arial,sans-serif">
- <text x="78" y="78" fill="#73dff3" font-size="16" letter-spacing="5">SOFTWARE • AI • AUTOMATION</text>
- <text x="74" y="166" fill="#f5f7fb" font-size="76" font-weight="700" letter-spacing="1">NAWAID</text>
- <text x="80" y="210" fill="#c5d1e3" font-size="24" letter-spacing="2">FULL-STACK DEVELOPER</text>
- <text x="80" y="254" fill="#91a3bd" font-size="16" letter-spacing="1.5">Building practical products and intelligent workflows.</text>
- <text x="1110" y="295" fill="#a9b9d0" font-size="13" text-anchor="end" letter-spacing="3">@NAWAID333</text>
+<rect width="1200" height="420" rx="10" fill="url(#blue)"/>
+<rect width="1200" height="420" rx="10" fill="url(#halftone)"/>
+<rect width="1200" height="420" rx="10" fill="url(#lines)"/>
+<path d="M0 0H1200L1070 420H0Z" fill="#00152e" opacity=".34"/>
+<path d="M0 350L260 0H400L120 420H0Z" fill="#ed1c24" opacity=".94"/>
+<path d="M850 0H1200V420H1040Z" fill="#e91d2b" opacity=".9"/>
+<path d="M890 0L1200 250M820 0L1200 340" stroke="#fff" stroke-width="7" opacity=".12"/>
+<g fill="#f8fbff" opacity=".96">
+ <path d="M1010 45l14 42 44-8-35 29 23 39-40-22-32 32 10-44-39-19 44-5z"/>
+ <path d="M760 300l9 27 29-5-23 19 15 25-27-14-21 21 7-29-26-13 29-4z"/>
 </g>
+<g font-family="Arial Black,Arial,sans-serif" filter="url(#shadow)">
+ <text x="74" y="83" font-size="22" letter-spacing="7" fill="#ffe34d">THE NEXT GENERATION OF BUILDERS</text>
+ <text x="66" y="220" font-size="116" font-weight="900" letter-spacing="-3" fill="#fff" stroke="#07172d" stroke-width="5" paint-order="stroke">NAWAID</text>
+ <path d="M74 244H720L690 304H74Z" fill="#ed1c24" stroke="#fff" stroke-width="4"/>
+ <text x="96" y="286" font-size="34" font-weight="900" letter-spacing="3" fill="#fff">THE DEVELOPER UNIVERSE</text>
+</g>
+<g font-family="Arial,sans-serif" fill="#fff">
+ <text x="78" y="350" font-size="22" font-weight="700" letter-spacing="3">FULL-STACK • AI • AUTOMATION</text>
+ <text x="78" y="386" font-size="17" letter-spacing="2" fill="#d9ecff">BUILDING PRODUCTS. SOLVING REAL-WORLD MISSIONS.</text>
+ <text x="1118" y="388" font-size="19" font-weight="700" letter-spacing="3" text-anchor="end">@NAWAID333</text>
+</g>
+<path d="M0 10H1200M0 410H1200" stroke="#ffe34d" stroke-width="10"/>
 </svg>
