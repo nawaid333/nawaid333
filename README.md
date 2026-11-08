@@ -23,7 +23,7 @@
 <td align="center" width="50%">
 
 ### 🟢 THE GREEN TITAN
-<img src="assets/green-titan.gif" width="100%" alt="Green Titan avatar">
+<img src="green-titan.gif" width="100%" alt="Green Titan avatar">
 
 **POWER CODER**  
 <sub>Strength · Persistence · Problem solving</sub>
@@ -32,7 +32,7 @@
 <td align="center" width="50%">
 
 ### 🔴 THE ARMORED GENIUS
-<img src="assets/armored-genius.gif" width="100%" alt="Armored Genius avatar">
+<img src="armored-genius.gif" width="100%" alt="Armored Genius avatar">
 
 **SYSTEM ENGINEER**  
 <sub>Engineering · Debugging · Building</sub>
@@ -43,7 +43,7 @@
 <td align="center" width="50%">
 
 ### 🟩 THE DARK SOVEREIGN
-<img src="assets/dark-sovereign.gif" width="100%" alt="Dark Sovereign avatar">
+<img src="dark-sovereign.gif" width="100%" alt="Dark Sovereign avatar">
 
 **MASTER ARCHITECT**  
 <sub>AI systems · Architecture · Strategy</sub>
@@ -52,7 +52,7 @@
 <td align="center" width="50%">
 
 ### ⚡ THE STORM WARRIOR
-<img src="assets/storm-warrior.gif" width="100%" alt="Storm Warrior avatar">
+<img src="storm-warrior.gif" width="100%" alt="Storm Warrior avatar">
 
 **DEPLOYMENT FORCE**  
 <sub>Learning · Energy · Shipping</sub>
@@ -64,7 +64,7 @@
 <div align="center">
 
 ### 🕸️ THE WEB ARCHITECT
-<img src="assets/web-architect.gif" width="78%" alt="Web Architect avatar">
+<img src="web-architect.gif" width="78%" alt="Web Architect avatar">
 
 **FULL-STACK BUILDER**
 
