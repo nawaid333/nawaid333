@@ -1,126 +1,150 @@
 <div align="center">
 
-<img src="assets/professional-banner.svg" width="100%" alt="Nawaid — Full-stack developer, AI and automation"/>
+<img src="assets/professional-banner.svg" width="100%" alt="Nawaid — Developer universe"/>
+
+<h1>⚡ NAWAID // THE DEVELOPER UNIVERSE ⚡</h1>
+<h3>ONE MIND. FIVE FORCES. LIMITLESS BUILDS.</h3>
+<p><em>Every challenge has a weakness. Every problem has a solution. I build the tools to find it.</em></p>
+
+<img src="https://img.shields.io/badge/IDENTITY-FULL--STACK%20DEVELOPER-101827?style=for-the-badge&labelColor=05080f"/>
+<img src="https://img.shields.io/badge/SPECIALTY-AI%20%7C%20AUTOMATION-101827?style=for-the-badge&labelColor=05080f"/>
+<img src="https://img.shields.io/badge/BASE-UAE%20%7C%20INDIA-101827?style=for-the-badge&labelColor=05080f"/>
 
 <p>
-  <a href="#about">ABOUT</a> &nbsp;·&nbsp;
-  <a href="#technology">TECHNOLOGY</a> &nbsp;·&nbsp;
-  <a href="#selected-work">PROJECTS</a> &nbsp;·&nbsp;
-  <a href="#github-activity">GITHUB ACTIVITY</a> &nbsp;·&nbsp;
-  <a href="#contact">CONTACT</a>
+<a href="#origin-story">ORIGIN STORY</a> ·
+<a href="#the-five-forces">THE FIVE FORCES</a> ·
+<a href="#arsenal">ARSENAL</a> ·
+<a href="#missions">MISSIONS</a> ·
+<a href="#battle-record">BATTLE RECORD</a> ·
+<a href="#transmission">TRANSMISSION</a>
 </p>
-
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-172033?style=flat-square&labelColor=0b1220"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-172033?style=flat-square&labelColor=0b1220"/>
-<img src="https://img.shields.io/badge/BASED-UAE%20%7C%20INDIA-172033?style=flat-square&labelColor=0b1220"/>
 
 </div>
 
 ---
 
-## THE DEVELOPER UNIVERSE
-
-<div align="center">
+<h2 align="center">🦸 THE FIVE FORCES</h2>
+<p align="center"><em>Five original hero identities. One developer mindset.</em></p>
 
 <table>
 <tr>
-<td align="center" valign="top" width="20%">
-<img src="armored-genius.gif" width="180" alt="Armored genius superhero"/>
-<strong>THE ARMORED GENIUS</strong><br/>
-<sub>System Engineering</sub>
+<td align="center" width="33%" valign="top">
+<img src="armored-genius.gif" width="100%" alt="The Armored Genius"/>
+<h3>🔴 THE ARMORED GENIUS</h3>
+<strong>THE SYSTEM BUILDER</strong><br/>
+<sub>Engineering · Architecture · Debugging</sub>
 </td>
-<td align="center" valign="top" width="20%">
-<img src="dark-sovereign.gif" width="180" alt="Dark sovereign superhero"/>
-<strong>THE DARK SOVEREIGN</strong><br/>
-<sub>Technical Strategy</sub>
+<td align="center" width="33%" valign="top">
+<img src="dark-sovereign.gif" width="100%" alt="The Dark Sovereign"/>
+<h3>🟢 THE DARK SOVEREIGN</h3>
+<strong>THE STRATEGIST</strong><br/>
+<sub>Planning · Logic · Technical decisions</sub>
 </td>
-<td align="center" valign="top" width="20%">
-<img src="green-titan.gif" width="180" alt="Green titan superhero"/>
-<strong>THE GREEN TITAN</strong><br/>
-<sub>Problem Solving</sub>
+<td align="center" width="33%" valign="top">
+<img src="green-titan.gif" width="100%" alt="The Green Titan"/>
+<h3>💚 THE GREEN TITAN</h3>
+<strong>THE PROBLEM BREAKER</strong><br/>
+<sub>Troubleshooting · Persistence · Optimization</sub>
 </td>
-<td align="center" valign="top" width="20%">
-<img src="storm-warrior.gif" width="180" alt="Storm warrior superhero"/>
-<strong>THE STORM WARRIOR</strong><br/>
-<sub>Code & Deployment</sub>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+<img src="storm-warrior.gif" width="100%" alt="The Storm Warrior"/>
+<h3>⚡ THE STORM WARRIOR</h3>
+<strong>THE DEPLOYMENT FORCE</strong><br/>
+<sub>Code · APIs · Cloud deployment</sub>
 </td>
-<td align="center" valign="top" width="20%">
-<img src="web-architect.gif" width="180" alt="Web architect superhero"/>
-<strong>THE WEB ARCHITECT</strong><br/>
-<sub>Web & Integration</sub>
+<td align="center" width="33%" valign="top">
+<img src="web-architect.gif" width="100%" alt="The Web Architect"/>
+<h3>🕸️ THE WEB ARCHITECT</h3>
+<strong>THE CONNECTOR</strong><br/>
+<sub>Web apps · Integrations · Automation</sub>
+</td>
+<td align="center" valign="middle">
+<h2>THE MISSION</h2>
+<p><strong>Turn complex problems into useful technology.</strong></p>
+<sub>Build with purpose. Learn without limits.</sub>
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## About
+<h2 id="origin-story">📖 ORIGIN STORY // ABOUT THE DEVELOPER</h2>
 
 <table>
 <tr>
-<td width="160" align="center" valign="top">
-<img src="https://github.com/nawaid333.png" width="132" alt="Mohammad Nawaid Kalim"/>
+<td width="180" align="center" valign="top">
+<img src="https://github.com/nawaid333.png" width="145" alt="Mohammad Nawaid Kalim"/>
 <br/><br/>
-<strong><a href="https://github.com/nawaid333">@nawaid333</a></strong>
+<strong>NAWAID</strong><br/>
+<sub><a href="https://github.com/nawaid333">@nawaid333</a></sub>
 </td>
 <td valign="top">
 
 ### Mohammad Nawaid Kalim
+**Full-Stack Developer | AI & Automation Explorer**
 
-Full-stack developer focused on building practical software, AI-powered products and workflow automation.
+I’m driven by one idea: technology should solve real problems.
 
-I combine hands-on product development with experience in project coordination, operations and MIS reporting.
+I build practical software, explore AI-powered products and connect tools through APIs and automation. My background in project coordination, operations and MIS reporting helps me understand the real-world problems behind the systems.
 
-- Designing and developing full-stack applications
-- Exploring AI agents, APIs and Model Context Protocol (MCP)
-- Automating repetitive workflows and integrations
-- Working with databases, debugging and deployment
-- Turning operational problems into useful software tools
+**MY CORE DIRECTIVES**
+- Build full-stack applications and useful digital products
+- Explore AI agents, APIs and Model Context Protocol (MCP)
+- Automate repetitive workflows and connect services
+- Work with databases, debugging and deployment
+- Bring operational thinking into software development
 
 </td>
 </tr>
 </table>
 
-## Technology
+---
+
+<h2 id="arsenal">🧰 THE ARSENAL // TECHNOLOGY STACK</h2>
+<p align="center"><em>Tools are the weapons. Skill is knowing when and how to use them.</em></p>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=vscode,python,java,js,ts,react,nextjs,nodejs,docker,postgres,git,github,vercel&perline=7" alt="Technology stack"/>
-
 </div>
 
-**Current focus:** AI Engineering · API Integration · MCP · Workflow Automation · Full-Stack Development
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-Exploring-172033?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20INTEGRATION-Active%20Focus-172033?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-Exploring-172033?style=flat-square"/>
+<img src="https://img.shields.io/badge/WORKFLOW%20AUTOMATION-Building-172033?style=flat-square"/>
+</p>
 
 ---
 
-## Selected Work
+<h2 id="missions">🚀 CLASSIFIED MISSIONS // SELECTED WORK</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Nawshum
-**AI Job Application Assistant**
+<h3>🧠 MISSION 01 — NAWSHUM</h3>
+<strong>AI JOB APPLICATION ASSISTANT</strong>
 
-AI-powered workflows for CV tailoring, job matching and application assistance.
+An AI-powered product concept designed to help job seekers tailor CVs, discover relevant opportunities and streamline application workflows.
 
-AI · Automation · Next.js
+<p><code>AI</code> <code>Automation</code> <code>Next.js</code></p>
 
-[Repository](https://github.com/nawaid333/jobpilot-ai) · [Website](https://nawshum.com)
+<a href="https://github.com/nawaid333/jobpilot-ai">↗ ACCESS REPOSITORY</a><br/>
+<a href="https://nawshum.com">↗ VISIT NAWSHUM</a>
 
 </td>
 <td width="50%" valign="top">
 
-### CV Analyzer
-**AI-powered CV analysis**
+<h3>📄 MISSION 02 — CV ANALYZER</h3>
+<strong>AI-POWERED CV ANALYSIS</strong>
 
-Exploring automated CV analysis and ATS-oriented feedback using Python and Gemini.
+Exploring automated CV analysis and ATS-oriented feedback to make resumes clearer and more relevant to job requirements.
 
-Python · Gemini · ATS
+<p><code>Python</code> <code>Gemini</code> <code>ATS</code></p>
 
-[Explore repositories](https://github.com/nawaid333?tab=repositories)
+<a href="https://github.com/nawaid333?tab=repositories">↗ EXPLORE REPOSITORIES</a>
 
 </td>
 </tr>
@@ -128,7 +152,8 @@ Python · Gemini · ATS
 
 ---
 
-## GitHub Activity
+<h2 id="battle-record">📊 BATTLE RECORD // GITHUB ACTIVITY</h2>
+<p align="center"><em>Every commit is progress. Every project is another mission completed.</em></p>
 
 <div align="center">
 
@@ -143,12 +168,16 @@ Python · Gemini · ATS
 
 ---
 
-## Contact
-
+<h2 id="transmission">📡 TRANSMISSION // CONNECT</h2>
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nawaid333)
+<strong>HAVE A CHALLENGE WORTH BUILDING?</strong>
+<p>Let’s turn bold ideas into working technology.</p>
 
-**Building practical products. Exploring intelligent systems. Improving every day.**
+<a href="https://github.com/nawaid333"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github"/></a>
+<a href="mailto:nawaidkalim24080@gmail.com"><img src="https://img.shields.io/badge/EMAIL-START%20A%20CONVERSATION-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<h3>⚡ CODE. BUILD. DEPLOY. REPEAT. ⚡</h3>
+<sub>NAWAID // END OF TRANSMISSION</sub>
 
 </div>
