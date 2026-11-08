@@ -1,104 +1,80 @@
 <div align="center">
 
-<img src="assets/nawaid-cinematic-banner.svg" width="100%" alt="Nawaid cinematic developer universe">
+<img src="assets/nawaid-cinematic-banner.svg" width="100%" alt="Nawaid cinematic neon command center">
 
 # ⚡ NAWAID
 ### THE DEVELOPER COMMAND CENTER
-<sub>ONE DEVELOPER · FIVE FORMS · ONE DIGITAL UNIVERSE</sub>
-
-<img src="storm-warrior.gif" width="88%" alt="Lightning-powered guardian controlling the developer universe">
-
-**THE POWER SOURCE**
-<br><sub>Turning ideas into code, systems and intelligent products.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ THE FIVE OPERATING FORMS ◈
-<sub>Different powers. One identity. Every role has a mission.</sub>
+<sub>ONE IDENTITY · FIVE FORMS · ONE DIGITAL UNIVERSE</sub>
 
 </div>
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="armored-genius.gif" width="100%" alt="Armored engineer coding and repairing systems">
-
-### ⚙️ THE SYSTEM ENGINEER
-<sub>Build · Code · Debug · Repair</sub>
-
+<td width="22%" align="center" valign="middle">
+<img src="green-titan.gif" width="100%" alt="Powerful bug breaker">
+<sub><b>BUG BREAKER</b><br>Crush errors</sub>
 </td>
-<td width="50%" align="center" valign="middle">
-
-<img src="dark-sovereign.gif" width="100%" alt="Masked strategist on a throne">
-
-### ♛ THE ARCHITECT
-<sub>Strategy · Architecture · Technical vision</sub>
-
+<td width="56%" align="center" valign="middle">
+<img src="storm-warrior.gif" width="100%" alt="Central lightning-powered hero">
+<h2>⚡ THE POWER SOURCE ⚡</h2>
+<sub>Powering ideas, code, systems and intelligent products.</sub>
+</td>
+<td width="22%" align="center" valign="middle">
+<img src="dark-sovereign.gif" width="100%" alt="Strategic masked architect">
+<sub><b>THE ARCHITECT</b><br>Design systems</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="green-titan.gif" width="100%" alt="Green powerhouse smashing software bugs">
-
-### 💥 THE BUG BREAKER
-<sub>Crush errors · Optimize · Strengthen</sub>
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<img src="web-architect.gif" width="100%" alt="Web-powered hero connecting digital systems">
-
-### 🕸️ THE WEB CONNECTOR
-<sub>Integrate · Automate · Connect systems</sub>
-
+<td colspan="3" align="center">
+<img src="armored-genius.gif" width="48%" alt="Armored engineer coding and repairing">
+<img src="web-architect.gif" width="48%" alt="Web-powered engineer connecting systems">
+<br>
+<sub><b>THE SYSTEM ENGINEER</b> · Build & repair</sub>
+&nbsp;&nbsp;&nbsp;
+<sub><b>THE WEB CONNECTOR</b> · Integrate & automate</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-<div align="center">
-
-## ◈ OPERATOR PROFILE ◈
-
-### NAWAID · [@nawaid333](https://github.com/nawaid333)
-
-Full-stack developer and builder exploring AI-powered products, automation and practical software engineering.
-
-**Mission:** Learn by building. Solve real problems. Ship useful products.
-
-</div>
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="32%" align="center" valign="top">
 
-### 🚀 FEATURED PROJECT — NAWSHUM
+### ◈ OPERATOR
 
-AI-powered job application assistant focused on CV tailoring, job matching and application workflows.
+<img src="https://github.com/nawaid333.png" width="130" alt="Nawaid GitHub avatar">
 
-[Open project repository](https://github.com/nawaid333/jobpilot-ai) · [nawshum.com](https://nawshum.com)
+**MOHAMMAD NAWAID KALIM**
+
+[@nawaid333](https://github.com/nawaid333)
+
+Full-stack developer · AI builder · Automation explorer
 
 </td>
-<td width="50%" valign="top">
+<td width="68%" valign="top">
 
-### 🧠 CURRENT MISSIONS
+### ◈ MISSION CONTROL
 
-- Full-stack product development
+**Current mission:** Build useful software that solves real problems.
+
+- Full-stack applications and product engineering
 - AI agents, APIs and MCP
-- Workflow automation
-- Database design and integrations
-- Building and shipping real-world tools
+- Workflow automation and integrations
+- Database design, debugging and deployment
+
+**Featured build**
+
+[**NAWSHUM**](https://github.com/nawaid333/jobpilot-ai) — AI-powered job application workflows for CV tailoring, job matching and application assistance.
+
+[Visit nawshum.com](https://nawshum.com)
 
 </td>
 </tr>
 </table>
+
+---
 
 <div align="center">
 
@@ -117,7 +93,7 @@ AI-powered job application assistant focused on CV tailoring, job matching and a
 
 <div align="center">
 
-## 📊 LIVE GITHUB TELEMETRY
+## 📡 LIVE GITHUB TELEMETRY
 
 <img src="https://github-readme-stats.vercel.app/api?username=nawaid333&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=E6B450&icon_color=8B5CF6" width="82%" alt="Live GitHub statistics">
 
@@ -127,14 +103,14 @@ AI-powered job application assistant focused on CV tailoring, job matching and a
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 ### 🔥 CONTRIBUTION REACTOR
 
 <img src="https://streak-stats.demolab.com?user=nawaid333&theme=tokyonight&hide_border=true&background=0D1117&ring=E6B450&fire=E11D48&currStreakLabel=E6B450" width="100%" alt="GitHub streak">
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 ### 🌌 ACTIVITY SIGNAL
 
