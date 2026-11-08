@@ -157,12 +157,18 @@ Exploring automated CV analysis and ATS-oriented feedback to make resumes cleare
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nawaid333&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=79d5e8&icon_color=9b8cff" alt="GitHub overview"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaid333&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=79d5e8" alt="Most used languages"/>
+<img src="https://img.shields.io/github/followers/nawaid333?label=FOLLOWERS&style=for-the-badge&color=1677c8&labelColor=071a2f" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/nawaid333?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=e7b52c&labelColor=071a2f" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/repos/nawaid333?label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=ed1c24&labelColor=071a2f" alt="Public repositories"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=nawaid333&theme=github-dark-blue&hide_border=true&background=0d1117&ring=79d5e8&fire=9b8cff&currStreakLabel=79d5e8" alt="Contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaid333&bg_color=0d1117&color=c9d1d9&line=79d5e8&point=9b8cff&area=true&hide_border=true" width="96%" alt="Contribution activity"/>
+<br/>
+
+<a href="https://github.com/nawaid333?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-1677c8?style=for-the-badge&labelColor=071a2f" alt="Explore all projects"/></a>
+<a href="https://github.com/nawaid333?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/VIEW-GITHUB%20CONTRIBUTIONS-ed1c24?style=for-the-badge&labelColor=071a2f" alt="View GitHub contributions"/></a>
 
 </div>
 
