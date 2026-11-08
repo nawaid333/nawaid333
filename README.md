@@ -3,18 +3,53 @@
 <img src="assets/professional-banner.svg" width="100%" alt="Nawaid — Full-stack developer, AI and automation"/>
 
 <p>
-  <a href="#about">About</a> ·
-  <a href="#technology">Technology</a> ·
-  <a href="#selected-work">Selected Work</a> ·
-  <a href="#github-activity">GitHub Activity</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#about">ABOUT</a> &nbsp;·&nbsp;
+  <a href="#technology">TECHNOLOGY</a> &nbsp;·&nbsp;
+  <a href="#selected-work">PROJECTS</a> &nbsp;·&nbsp;
+  <a href="#github-activity">GITHUB ACTIVITY</a> &nbsp;·&nbsp;
+  <a href="#contact">CONTACT</a>
 </p>
 
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-172033?style=flat-square&labelColor=0b1220" alt="Full stack focus"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-172033?style=flat-square&labelColor=0b1220" alt="AI and automation focus"/>
-<img src="https://img.shields.io/badge/BASED-UAE%20%7C%20INDIA-172033?style=flat-square&labelColor=0b1220" alt="UAE and India"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-172033?style=flat-square&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-172033?style=flat-square&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/BASED-UAE%20%7C%20INDIA-172033?style=flat-square&labelColor=0b1220"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## THE DEVELOPER UNIVERSE
+
+<img src="storm-warrior.gif" width="72%" alt="Central lightning-powered developer hero"/>
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="armored-genius.gif" width="100%" alt="Armored developer coding and repairing systems"/>
+<strong>SYSTEM ENGINEERING</strong><br/>
+<sub>Build · Code · Debug</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="dark-sovereign.gif" width="100%" alt="Strategic masked architect"/>
+<strong>TECHNICAL STRATEGY</strong><br/>
+<sub>Plan · Architect · Lead</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="green-titan.gif" width="100%" alt="Powerful bug breaker"/>
+<strong>PROBLEM SOLVING</strong><br/>
+<sub>Investigate · Fix · Optimize</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="web-architect.gif" width="100%" alt="Web systems engineer"/>
+<strong>WEB & INTEGRATION</strong><br/>
+<sub>Connect · Integrate · Automate</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,7 +57,7 @@
 
 <table>
 <tr>
-<td width="170" align="center" valign="top">
+<td width="160" align="center" valign="top">
 <img src="https://github.com/nawaid333.png" width="132" alt="Mohammad Nawaid Kalim"/>
 <br/><br/>
 <strong><a href="https://github.com/nawaid333">@nawaid333</a></strong>
@@ -33,7 +68,7 @@
 
 Full-stack developer focused on building practical software, AI-powered products and workflow automation.
 
-I bring together hands-on product development with experience in project coordination, operations and MIS reporting.
+I combine hands-on product development with experience in project coordination, operations and MIS reporting.
 
 - Designing and developing full-stack applications
 - Exploring AI agents, APIs and Model Context Protocol (MCP)
@@ -49,13 +84,13 @@ I bring together hands-on product development with experience in project coordin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,docker,postgres,git,github,vercel,vscode&perline=7" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=vscode,python,java,js,ts,react,nextjs,nodejs,docker,postgres,git,github,vercel&perline=7" alt="Technology stack"/>
 
 </div>
 
-**Current areas of focus**
+**Current focus:** AI Engineering · API Integration · MCP · Workflow Automation · Full-Stack Development
 
-AI Engineering · API Integration · MCP · Workflow Automation · Full-Stack Development
+---
 
 ## Selected Work
 
@@ -66,7 +101,9 @@ AI Engineering · API Integration · MCP · Workflow Automation · Full-Stack De
 ### Nawshum
 **AI Job Application Assistant**
 
-An AI-powered workflow concept for CV tailoring, job matching and application assistance.
+AI-powered workflows for CV tailoring, job matching and application assistance.
+
+AI · Automation · Next.js
 
 [Repository](https://github.com/nawaid333/jobpilot-ai) · [Website](https://nawshum.com)
 
@@ -78,11 +115,15 @@ An AI-powered workflow concept for CV tailoring, job matching and application as
 
 Exploring automated CV analysis and ATS-oriented feedback using Python and Gemini.
 
+Python · Gemini · ATS
+
 [Explore repositories](https://github.com/nawaid333?tab=repositories)
 
 </td>
 </tr>
 </table>
+
+---
 
 ## GitHub Activity
 
@@ -97,12 +138,14 @@ Exploring automated CV analysis and ATS-oriented feedback using Python and Gemin
 
 </div>
 
+---
+
 ## Contact
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nawaid333)
 
-**Interested in building useful products, AI workflows and automation.**
+**Building practical products. Exploring intelligent systems. Improving every day.**
 
 </div>
